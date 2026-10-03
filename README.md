@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of ekumanov/flarum-ext-new-posts-notice.** Not for installation: use [Packagist](https://packagist.org/packages/ekumanov/flarum-ext-new-posts-notice) or the [upstream repository](https://github.com/ekumanov/flarum-ext-new-posts-notice).
 
-**0** versions archived · Latest: [`v2.2.2`](https://github.com/flarchive/ekumanov-flarum-ext-new-posts-notice/tree/archive/v2.2.2) · License: `MIT` · Flarum: `^2.0`
+**8** versions archived · Latest: [`v2.2.2`](https://github.com/flarchive/ekumanov-flarum-ext-new-posts-notice/tree/archive/v2.2.2) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-03-15 | `^1.8.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-new-posts-notice/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-03-15 | `^1.8.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-new-posts-notice/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-03-15 | `^1.8.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-new-posts-notice/tree/archive/v1.0.2) |
+| `v1.0.3` | 2026-03-15 | `^1.8.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-new-posts-notice/tree/archive/v1.0.3) |
+| `v1.0.4` | 2026-03-26 | `^1.8.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-new-posts-notice/tree/archive/v1.0.4) |
+| `v2.0.0-beta.1` | 2026-03-17 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-new-posts-notice/tree/archive/v2.0.0-beta.1) |
+| `v2.2.1` | 2026-03-26 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-new-posts-notice/tree/archive/v2.2.1) |
+| `v2.2.2` | 2026-09-24 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-new-posts-notice/tree/archive/v2.2.2) |
 
 Catalog entry: [packages/ekumanov-flarum-ext-new-posts-notice.json](https://github.com/flarchive/archive-index/blob/main/packages/ekumanov-flarum-ext-new-posts-notice.json)
 
